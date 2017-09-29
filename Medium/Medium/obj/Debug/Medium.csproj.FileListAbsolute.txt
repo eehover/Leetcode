@@ -1,0 +1,6 @@
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\bin\Debug\Medium.exe.config
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\bin\Debug\Medium.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\bin\Debug\Medium.pdb
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\obj\Debug\Medium.csprojResolveAssemblyReference.cache
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\obj\Debug\Medium.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Medium\Medium\obj\Debug\Medium.pdb

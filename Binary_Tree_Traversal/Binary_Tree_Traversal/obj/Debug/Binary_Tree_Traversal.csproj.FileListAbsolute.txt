@@ -1,0 +1,6 @@
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\bin\Debug\Binary_Tree_Traversal.exe.config
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\bin\Debug\Binary_Tree_Traversal.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\bin\Debug\Binary_Tree_Traversal.pdb
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\obj\Debug\Binary_Tree_Traversal.csprojResolveAssemblyReference.cache
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\obj\Debug\Binary_Tree_Traversal.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Binary_Tree_Traversal\Binary_Tree_Traversal\obj\Debug\Binary_Tree_Traversal.pdb

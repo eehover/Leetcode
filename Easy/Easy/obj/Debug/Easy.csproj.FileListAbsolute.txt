@@ -1,0 +1,6 @@
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\bin\Debug\Easy.exe.config
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\bin\Debug\Easy.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\bin\Debug\Easy.pdb
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\obj\Debug\Easy.csprojResolveAssemblyReference.cache
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\obj\Debug\Easy.exe
+D:\Junyan-Pengwei\code\Project\Leetcode\Easy\Easy\obj\Debug\Easy.pdb
